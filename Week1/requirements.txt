@@ -1,0 +1,1 @@
+# The default TCP connect scanner uses only Python's standard library.
